@@ -10991,7 +10991,7 @@ Transform:
   m_GameObject: {fileID: 662025223}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.9885986, y: -0.602, z: 0.3788629}
+  m_LocalPosition: {x: 0.9885986, y: -0.563, z: 0.3788629}
   m_LocalScale: {x: 0.17470501, y: 0.2381965, z: 0.17470501}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -13802,7 +13802,7 @@ GameObject:
   m_Component:
   - component: {fileID: 543450653086347096}
   m_Layer: 0
-  m_Name: forest_01
+  m_Name: forest
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14902,6 +14902,10 @@ PrefabInstance:
     - target: {fileID: 682182654655096728, guid: fab0fa42eac9fb44a98974c20f9ebe16, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5185751812791883789, guid: fab0fa42eac9fb44a98974c20f9ebe16, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8507966954366432219, guid: fab0fa42eac9fb44a98974c20f9ebe16, type: 3}
       propertyPath: m_Name
